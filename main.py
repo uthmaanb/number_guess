@@ -49,6 +49,7 @@ if option == 1:
         print(f"number of tries: {tries}")
     else:
         print("too bad you lost")
+        print(number)
 elif option == 2:
     print("Thanks")
 else:
